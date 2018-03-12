@@ -1,11 +1,11 @@
 #!/usr/bin/python
-# Filename proxyserver.py
-# Python Dynamic Socks5 Proxy
-# Usage: python proxyserver.py 1080
-# Backgroup Run: nohup python s5.py 1080 &
-# Windows Run: python proxyserver.py 1080
-# Email: ringzero@557.im
-# from http://www.cnblogs.com/keepfocus/archive/2012/06/26/2563065.html
+#Filename proxyserver.py
+#Python Dynamic Socks5 Proxy
+#Usage: python proxyserver.py 1080
+#Linux  Backgroup Run: nohup python s5.py 1080 &
+#Windows Run: python proxyserver.py 1080
+#Email: ringzero@557.im
+#from http://www.cnblogs.com/keepfocus/archive/2012/06/26/2563065.html
 
 
 import socket, sys, select, SocketServer, struct, time
