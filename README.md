@@ -6,6 +6,3 @@ Proxy server run by python，it can recever socket get from client on 1080
 sh ./proxyserver.sh
 # if you at windows server
 proxyserver.bat
-
-#change by byygyy 
-byygyy
