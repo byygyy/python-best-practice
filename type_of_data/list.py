@@ -1,10 +1,16 @@
 #!/usr/bin/python
 # coding=utf-8
 
-age=22;
-print(age+10);
-age2=22+10;
-print(age2);
+list1 = ['robin', 'joe', 'john'];
 
-print("happy "+str(age2)+" rd Birthday!");
+# got the whole list
+print(list1);
 
+# got the first item of list
+print(list1[0]);
+
+# got the second item of list
+print(list1[1].title());
+
+# got the last item of list
+print(list1[-1]);
